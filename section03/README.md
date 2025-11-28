@@ -12,7 +12,8 @@
         
     - 업캐스팅: 서브 타입의 값을 슈퍼 타입의 값으로 취급하는 것(↔다운캐스팅)
         - 업캐스팅은 모든 상황에 가능하지만 다운 캐스팅은 대부분의 상황에 불가능
-            <img width="438" height="248" alt="스크린샷 2025-11-28 오후 6 11 44" src="https://github.com/user-attachments/assets/35018ab1-43f2-402c-b70a-be196fdb1e7f" />
+          
+         <img width="438" height="248" alt="스크린샷 2025-11-28 오후 6 11 44" src="https://github.com/user-attachments/assets/35018ab1-43f2-402c-b70a-be196fdb1e7f" />
             
 <img width="1913" height="663" alt="image" src="https://github.com/user-attachments/assets/fa7272b5-186a-4e13-8140-452a0bba73e0" />
 
