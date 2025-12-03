@@ -1,8 +1,7 @@
-import { ReactElement, useState } from "react";
+import { useState } from "react";
 
 interface Props {
   onClickAdd: (text: string) => void;
-  children: ReactElement;
 }
 
 export default function Editor(props: Props) {
